@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_HomeTask20230822", "WPF_HomeTask20230822\WPF_HomeTask20230822.csproj", "{C242E9D7-F60D-42CE-BB8C-4BBD60227A49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C242E9D7-F60D-42CE-BB8C-4BBD60227A49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C242E9D7-F60D-42CE-BB8C-4BBD60227A49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C242E9D7-F60D-42CE-BB8C-4BBD60227A49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C242E9D7-F60D-42CE-BB8C-4BBD60227A49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFFE7208-6C55-48EE-AE42-945172F2DDA3}
+	EndGlobalSection
+EndGlobal
